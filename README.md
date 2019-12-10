@@ -10,8 +10,8 @@ VULCAN2019 的个人博客
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](https://www.juneblog.online/my-github-repos)
-* [世界，你好！](https://www.juneblog.online/hello-solo)
+* [我在 GitHub 上的开源项目](http://juneblog.online/my-github-repos)
+* [世界，你好！](http://juneblog.online/hello-solo)
 
 
 
